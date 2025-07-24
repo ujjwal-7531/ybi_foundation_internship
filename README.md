@@ -1,6 +1,6 @@
 # 🧪 Breast Cancer Classification using Random Forest
 
-This project uses a **Random Forest Classifier** to predict whether a breast cancer tumor is **malignant** or **benign** based on various features extracted from digitized images of fine needle aspirate (FNA) of breast masses.
+This project uses a **Random Forest Classifier** to predict whether a breast cancer tumor is **malignant** or **benign**.
 
 The model is built and evaluated using **scikit-learn** on the popular Breast Cancer Wisconsin Dataset.
 
